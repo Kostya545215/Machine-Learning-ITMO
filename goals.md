@@ -13,3 +13,4 @@
 - Разбор всех материалов лекций.
 - Ведение кратких конспектов по каждому из методов машинного обучения.
 
+![screen](https://github.com/Kostya545215/Machine-Learning-ITMO/blob/main/resources/schema11.jpg)
